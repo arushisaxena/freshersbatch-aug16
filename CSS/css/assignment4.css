@@ -1,0 +1,16 @@
+body{
+background-color:#b3d9ff;
+}
+a{
+background-color:red;
+}
+a:link
+{
+background-color:red;
+}
+
+a:visited
+{
+background-color:blue;
+}
+
